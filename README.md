@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @evan-strong-stolaf
+- 👋 Hi, I’m Evan Strong (he/him) - St. Olaf Class of 2022
 - 👀 I’m interested in making STEM concepts more accessible, especially coding!
 - 🌱 I’m currently learning quantm mechanics, materials science, and differential equations!
 - 💞️ I’m looking to collaborate on a DiSCO code accessibility project
